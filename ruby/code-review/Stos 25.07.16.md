@@ -9,7 +9,7 @@
 
 # Замечения к коду
 
-- в application_controller метод `valid_date_time` не нуждается в присвоении результата переменной(date_time), так же можно опустить begin
+- в application_controller метод `valid_date_time` не нуждается в присвоении результата переменной(date_time), так же можно опустить begin +
 
 calendar_actions_controller.rb
 
